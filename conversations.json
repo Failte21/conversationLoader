@@ -1,0 +1,8 @@
+[
+  {
+    "participantIds": [1, 2],
+    "messages": [{
+      "login": "Jean", "text" : "Hello"
+    }]
+  }
+]
